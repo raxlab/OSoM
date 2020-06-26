@@ -3,39 +3,74 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>https://www.raxlab.science/OSoM/</loc>
+    <lastmod>2020-06-05T16:29:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>https://www.raxlab.science/OSoM/post/post-test/</loc>
+    <lastmod>2020-06-05T16:29:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://www.raxlab.science/OSoM/post/</loc>
+    <lastmod>2020-06-05T16:29:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/nelson-bighetti/</loc>
+    <loc>https://www.raxlab.science/OSoM/authors/</loc>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://www.raxlab.science/OSoM/author/benjamin-bastidas/</loc>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>https://www.raxlab.science/OSoM/author/carlos-silva/</loc>
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>https://www.raxlab.science/OSoM/categories/</loc>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>https://www.raxlab.science/OSoM/author/francisco-jara/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://www.raxlab.science/OSoM/author/gonzalo-ruz/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/OSoM/author/jocelyn-olivari/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/OSoM/author/nelson-bighetti/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/OSoM/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/OSoM/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/OSoM/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/OSoM/author/rodrigo-a.-carrasco/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/OSoM/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.raxlab.science/OSoM/author/tito-homem-de-mello/</loc>
   </url>
   
 </urlset>

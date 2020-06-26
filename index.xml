@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <title>GEMA</title>
+    <link>https://www.raxlab.science/OSoM/</link>
+      <atom:link href="https://www.raxlab.science/OSoM/index.xml" rel="self" type="application/rss+xml" />
+    <description>GEMA</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Jun 2020 16:29:10 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Academic</title>
-      <link>/</link>
+      <url>https://www.raxlab.science/OSoM/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>GEMA</title>
+      <link>https://www.raxlab.science/OSoM/</link>
     </image>
+    
+    <item>
+      <title>Post test</title>
+      <link>https://www.raxlab.science/OSoM/post/post-test/</link>
+      <pubDate>Fri, 05 Jun 2020 16:29:10 +0000</pubDate>
+      <guid>https://www.raxlab.science/OSoM/post/post-test/</guid>
+      <description>&lt;p&gt;Body test&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
